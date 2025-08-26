@@ -12,3 +12,32 @@ understanding what the stakeholders expect from the software, reducing ambiguity
 - **Basis for Design and Development:** Provides a solid foundation for designing and developing the system.
 - **Cost and Time Estimation:** Facilitates accurate estimation of project cost, resources, and time.
 - **Quality Assurance:** Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+
+## Key Activities in Requirement Analysis.
+
+- **Requirement Gathering:** The process of conducting interviews with stakeholders to identify user goals and and needs
+
+- **Requirement Elicitation:** This process involves In creating prototypes and brainstorming ideas for stakeholders to visualize systems and refine their requirements.
+
+- **Requirement Documentation:** This process involves creating documents that lists all non functional and functional requirements of the project scope, from writing user stories to creating diagrams to show interactions between users and the system
+
+- **Requirement Analysis and Modeling:** This is the part where team prioritize base on most important tasks of the system
+
+- **Requirement Validation:** This process involves Reviewing the documented requirements with stakeholders to ensure accuracy and completeness by defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
+
+## Types of Requirements
+# Functional Requirements 
+    Describe what the system should do.
+Examples: User authentication, property search, booking system, user registration.
+
+Key Functional Requirements:
+
+Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
+User Registration: New users should be able to create an account with personal details and login credentials.
+Property Listings: Display properties with essential details and images.
+Booking System: Users should be able to book properties, view booking details, and manage their bookings.
+User Authentication: Secure login and registration process for users.
+Non-functional Requirements 🛡️
+
+Definition: Describe how the system should perform.
+Examples: Performance, security, scalability, usability, reliability.
