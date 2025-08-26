@@ -37,6 +37,10 @@ understanding what the stakeholders expect from the software, reducing ambiguity
 # Use Case Diagrams.
 Visual representation of interactions between users and the system show how different users (actors) interact with the system to achieve specific goals (use cases) by using tools like draw.io to draw interactions between actors and use cases.
 
+![Use Case](https://github.com/Joemekka/requirement-analysis/blob/main/alx-booking-uc.png)
+
+
+
 # Acceptance Criteria.
 Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders, mostly by being specific and measurable, Including functional and non-functional aspects.
 
