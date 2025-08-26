@@ -1,10 +1,10 @@
-## Requirement Analysis in Software Development.
+# Requirement Analysis in Software Development.
 The Requirement Analysis Project focuses on crafting a comprehensive foundation for software development by documenting, analyzing, and structuring requirements.
 
-## What is Requirement Analysis?
+# What is Requirement Analysis?
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 
-## Why is Requirement Analysis Important?
+# Why is Requirement Analysis Important?
     
 - **Clarity and Understanding:** It helps in 
 understanding what the stakeholders expect from the software, reducing ambiguity.
@@ -13,7 +13,7 @@ understanding what the stakeholders expect from the software, reducing ambiguity
 - **Cost and Time Estimation:** Facilitates accurate estimation of project cost, resources, and time.
 - **Quality Assurance:** Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
 
-## Key Activities in Requirement Analysis.
+# Key Activities in Requirement Analysis.
 
 - **Requirement Gathering:** The process of conducting interviews with stakeholders to identify user goals and and needs
 
@@ -25,19 +25,21 @@ understanding what the stakeholders expect from the software, reducing ambiguity
 
 - **Requirement Validation:** This process involves Reviewing the documented requirements with stakeholders to ensure accuracy and completeness by defining clear acceptance criteria for each requirement to ensure they meet the expected standards.
 
-## Types of Requirements
-# Functional Requirements 
+# Types of Requirements
+## Functional Requirements 
     Describe what the system should do.
-Examples: User authentication, property search, booking system, user registration.
+    Examples: User authentication, property search, booking system, user registration.
 
-Key Functional Requirements:
+## Non-functional Requirements 
+    Describe how the system should perform.
+    Examples: Performance, security, scalability, usability, reliability.
 
-Search Properties: Users should be able to search for properties based on various criteria such as location, price, and availability.
-User Registration: New users should be able to create an account with personal details and login credentials.
-Property Listings: Display properties with essential details and images.
-Booking System: Users should be able to book properties, view booking details, and manage their bookings.
-User Authentication: Secure login and registration process for users.
-Non-functional Requirements 🛡️
+# Use Case Diagrams.
+Visual representation of interactions between users and the system show how different users (actors) interact with the system to achieve specific goals (use cases) by using tools like draw.io to draw interactions between actors and use cases.
 
-Definition: Describe how the system should perform.
-Examples: Performance, security, scalability, usability, reliability.
+# Acceptance Criteria.
+Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders, mostly by being specific and measurable, Include functional and non-functional aspects.
+
+## Example for Booking System: 
+Users should be able to select available dates, confirm booking, and receive a confirmation email within 2 minutes.”
+
